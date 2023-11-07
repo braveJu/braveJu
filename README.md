@@ -1,4 +1,3 @@
-### Hi there 👋
 # Dongju v2.0
 <hr>
 <h1>Hi. I'm Dongju</h1>
