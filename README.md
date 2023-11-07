@@ -1,6 +1,8 @@
 # Dongju v2.0
-<hr>
 <h1>Hi. I'm Dongju</h1>
+
+![image](https://github.com/braveJu/braveJu/assets/33821195/fb87b7b5-870c-4f0e-8538-c5573fd9fccd)
+
 
 ### My Tech Stack
 
