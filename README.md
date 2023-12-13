@@ -23,10 +23,10 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<br>
+
 ## Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfmtpffhsk119)](https://solved.ac/qkfmtpffhsk119/)
-<br>
+
 
 ## Git Stat
 ![Dongju's GitHub stats](https://github-readme-stats.vercel.app/api?username=braveJu&show_icons=true)
