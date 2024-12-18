@@ -1,7 +1,6 @@
 # Dongju v2.0
 
 # 👋 안녕하세요, 저는 유동주입니다!
-![image](https://github.com/braveJu/braveJu/assets/33821195/fb87b7b5-870c-4f0e-8538-c5573fd9fccd)
 <br>
 ## 🚀 소개
 - 👨‍💻 저는 현재 군산대학교 소프트웨어학부에서 소프트웨어학을 전공하고 있습니다.
