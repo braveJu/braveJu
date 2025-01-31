@@ -36,7 +36,7 @@
 ### Contact
 - **Email**: qkfmtpffhsk119@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dongju-yu-522035155/)
-- **Blog**: [Tistory](https://www.dongjuzzang123.tistory.com)
+- **Blog**: [Tistory](dongjuzzang123.tistory.com)
 
 
 
