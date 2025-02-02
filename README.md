@@ -37,6 +37,7 @@
 - **Email**: qkfmtpffhsk119@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dongju-yu-522035155/)
 - **Blog**: [Tistory](https://dongjuzzang123.tistory.com/)
+- **Portpolio**: [Link](https://coffee-hellebore-686.notion.site/18c983cbb5e4801e9824ded84b8c67da?p=18d983cbb5e480af94f8d85db5472066&pm=s)
 
 
 
